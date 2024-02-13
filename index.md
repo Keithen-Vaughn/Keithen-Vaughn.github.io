@@ -4,7 +4,7 @@
 
 ### Excel/Sheets Projects 
 
-[Taylor Swift Song Deepdive](/taylor_swift_project)
+[Taylor Swift Spotify Deepdive](https://github.com/Keithen-Vaughn/taylor_swift_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
