@@ -2,9 +2,9 @@
 
 ---
 
-### Projects 
+### Excel/Sheets Projects 
 
-[Project 1 Title](/sample_page)
+[Taylor Swift Song Deepdive](/taylor_swift_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
