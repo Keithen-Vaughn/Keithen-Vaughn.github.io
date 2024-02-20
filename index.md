@@ -11,7 +11,7 @@
 ---
 ---
 
-### SQL/Tableau Projects
+### SQL Projects
 
 [Video Game Sales](https://github.com/Keithen-Vaughn/sql_video_game_sales)
 <img src="images/video_games.jpg?raw=true"/>
@@ -19,4 +19,5 @@
 ---
 ---
 
+### Tableau Projects
 
