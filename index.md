@@ -20,4 +20,6 @@
 ---
 
 ### Tableau Projects
+To view all Tableau projects head over to my profile in Tableau Public.
+[My Tableau Profile](https://public.tableau.com/app/profile/keithen.vaughn/vizzes)
 
